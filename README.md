@@ -1,0 +1,4 @@
+- 👋 Hallo, ik ben... Robin Jansen
+- 👀 Ik ben geïnteresseerd in...front-end coderen
+- 🌱 Ik ben momenteel aan het leren...Javascript
+- 📫 U kunt u mij bereiken op...fontysict2021@gmail.com
